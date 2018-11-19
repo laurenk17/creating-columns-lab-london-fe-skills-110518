@@ -40,7 +40,6 @@ img:hover {
   box-shadow:  -1px 1px #aaaa00, -2px 2px #aaaa00, -3px 3px #aaaa00, -4px 4px #aaaa00, -5px 5px #aaaa00;
   background-color: #dddd22;
 }
-
 .dubious {
   border: 1px solid #aa2222;
   box-shadow: -1px 1px #aa2222, -2px 2px #aa2222, -3px 3px #aa2222, -4px 4px #aa2222, -5px 5px #aa2222;
@@ -55,4 +54,7 @@ img:hover {
   display:inline-block;
 }
 
+img {
+  width:100%;
+}
 /* create your tile classes! we recommend .small .med .large */
